@@ -1,6 +1,6 @@
 ## Matthew Burgoyne
 
-Hard working, yet flexible software developer currently looking for my first role in the industry. I was formerly a secondary school teacher.
+Hard working, yet flexible software developer currently looking for my first role in the industry. I was formerly a secondary school teacher. I currently love programming in Ruby.
 
 ## Skills
 
