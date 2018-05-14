@@ -1,8 +1,6 @@
 ## Matthew Burgoyne
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
-I am a recent university graduate looking to launch a career in the wonderful world of software development.
+Hard working, yet flexible software developer currently looking for my first role in the industry. I was formerly a secondary school teacher.
 
 ## Skills
 
