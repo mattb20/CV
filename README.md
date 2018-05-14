@@ -28,7 +28,7 @@ Makers Academy (19/3/2018 to 9/7/2018)
 
 - Curious and passionate about code. I regularly read books about code, even if they aren't specific to what I am currently studying. I am currently reading the Rails 4 way. I also attended a hackathon during my time at Makers as I was keen to get as much experience of coding as possible. I also attended workshops after the day had finished, such as one on cryptography.
 - Fast, independent learner - learnt both Ruby and Javascript over the course of three months.
-- Great collaborator [PROVIDE EVIDENCE]
+- Great collaborator - completed projects as part of a team at my time at Makers including producing a clone of Instagram and AirBnB.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
