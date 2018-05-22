@@ -1,5 +1,7 @@
 ## Matthew Burgoyne
 
+Email: matt_burgoyne@live.co.uk
+
 Hard working, yet flexible software developer currently looking for my first role in the industry. I was formerly a Secondary school teacher. I currently love programming in Ruby, but am also capable of programming in JavaScript, and will be able to pick up other languages and technologies quickly.
 
 ## Skills
@@ -65,5 +67,5 @@ Queen Mary, University of London - BSc Mathematics
 ## Interests
 
 I enjoy long distance running and have tied this to my desire to make a positive impact on the world around me a better place raising money for charity through my competition in marathons. I played football regularly at university, I also play badminton and have played for my County, competing in regional and national tournaments while I was at school. I enjoy swimming and have achieved swimming awards for distance and life saving. I enjoy reading The Econmist magazine which allows
-Aside from that I just really enjoy learning new things and am always looking for ways to deepen my experiences, for example through travelling.
+Aside from that I just really enjoy learning new things and am always looking for ways to deepen my experiences, for example through travelling. I recently travelled solo around Japan.
 
