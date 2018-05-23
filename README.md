@@ -8,7 +8,7 @@ Hard working, yet flexible software developer currently looking for my first rol
 
 #### Communication
 
-During my time at university I spent a semester at Brooke House Sixth Form College assisting the teaching staff
+During my time at university I spent a semester at Brooke House Sixth Form College, assisting the teaching staff
 inside and outside of A Level Mathematics lessons. This involved spending an afternoon at the college each
 week. My tasks were to communicate with the class teacher to ensure I knew which topics were being covered
 on the afternoon I was at the college, so I could ensure my subject knowledge was top quality and explanations
@@ -16,7 +16,7 @@ were prepared in advance ready for students. I also took small groups of student
 independent, more focused sessions studying topics they were struggling with. While at the college I had to write a log book
 each week detailing what I had learnt about how Mathematics is taught in school. I also did a special project
 which involved coaching students about exam technique. After my time had finished I wrote a report
-summarising all that I had learnt which was marked by my university tutors, and gave a presentation to my fellow undergraduate students explaining my project and the skills I'd developed at my time at the college.
+summarising all that I had learnt, and gave a presentation to my fellow undergraduate students explaining my project and the skills I'd developed at my time at the college.
 
 On graduating from Queen Mary, I began a PGCE at King's College London in Secondary Mathematics.
 Here, I had the opportunity to work with tutors who were engaged in active research in Mathematics education.
