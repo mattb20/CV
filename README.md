@@ -3,6 +3,13 @@
 Email: matt_burgoyne@live.co.uk
 
 Hard working, yet flexible software developer currently looking for my first role in the industry. I was formerly a Secondary school teacher. I currently love programming in Ruby, but am also capable of programming in JavaScript, and will be able to pick up other languages and technologies quickly.
+## Projects:
+
+| Name                       | Description                                                                   | Technologies                     |  Testing                           |
+| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| [Acebook](https://github.com/mattb20/acebook-jspesh)      | A clone of the social media website Faceboo developed over two weeks with three of my fellow Makers.                | Ruby on Rails,  Postgresql, Bootstrap              | RSpec, Devise      |
+| [Codey Gonzales](https://github.com/sus111/codey-gonzalez)       | A speed type racer for code.                                         | JavaScript, Rails, Postgres           | Rspec, Capybara                    |
+| [Stay Cool](https://github.com/quad-piece/makers-bnb)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Node, Rethink DB, Thinky         | Jasmine, Zombie, Mocha, Chai       |   
 
 ## Skills
 
