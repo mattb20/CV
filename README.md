@@ -7,7 +7,7 @@ Hard working, yet flexible software developer currently looking for my first rol
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [Acebook](https://github.com/mattb20/acebook-jspesh)      | A clone of the social media website Faceboo developed over two weeks with three of my fellow Makers.                | Ruby on Rails,  Postgresql, Bootstrap              | RSpec, Devise      |
+| [Acebook](https://github.com/mattb20/acebook)      | A clone of the social media website Faceboo developed over two weeks with three of my fellow Makers.                | Ruby on Rails,  Postgresql, Bootstrap              | RSpec, Devise      |
 | [Codey Gonzales](https://github.com/sus111/codey-gonzalez)       | A speed type racer for code.                                         | JavaScript, Rails, Postgres           | Rspec, Capybara                    |
 | [Stay Cool](https://github.com/quad-piece/makers-bnb)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Node, Rethink DB, Thinky         | Jasmine, Zombie, Mocha, Chai       |   
 
