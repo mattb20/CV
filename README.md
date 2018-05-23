@@ -8,8 +8,6 @@ Hard working, yet flexible software developer currently looking for my first rol
 
 #### Communication
 
-From my experience in teaching, I was required to communicate with a wide range of people (students, fellow colleagues, parents) on a wide range of topics. I particularly loved communicating abstract and complex mathematical ideas to my students in a way that allowed them to feel confident in applying these ideas. I have now added to my communication skills at Makers by working in a team on projects and regularly pair programming.
-
 During my time at university I spent a semester at Brooke House Sixth Form College assisting the teaching staff
 inside and outside of A Level Mathematics lessons. This involved spending an afternoon at the college each
 week. My tasks were to communicate with the class teacher to ensure I knew which topics were being covered
@@ -20,28 +18,18 @@ each week detailing what I had learnt about how Mathematics is taught in school.
 which involved coaching students about exam technique. After my time had finished I wrote a report
 summarising all that I had learnt which was marked by my university tutors, and gave a presentation to my fellow undergraduate students explaining my project and the skills I'd developed at my time at the college.
 
-After I graduated from Queen Mary, I began a PGCE at King's College London in Secondary Mathematics.
+On graduating from Queen Mary, I began a PGCE at King's College London in Secondary Mathematics.
 Here, I had the opportunity to work with tutors who were engaged in active research in Mathematics education.
 This built on my already excellent understanding of Mathematics and helped me to become fully confident and
 comfortable communicating about Mathematics to groups of students in a classroom environment. I was
 required to plan and deliver extremely high-quality Mathematics lessons at two Secondary schools in Inner
-London. I also conducted two pieces of research; one was a pedagogical study on how equations are taught in
-Secondary school and the other was a research into how data is used in schools, more specifically how the
-newly introduced Progress 8 measure had changed the way schools are compared throughout the country. 
+London, one of them oustanding. I also communicated with parents about a wide range of issues involving their childs progress at school.
+
+From my experience in teaching, I was required to communicate with a wide range of people (students, fellow colleagues, parents) on a wide range of topics. I particularly loved communicating abstract and complex mathematical ideas to my students in a way that allowed them to feel confident in applying these ideas. I have now added to my communication skills at Makers by working in a team on projects and regularly pair programming.
 
 #### Innovative and forward thinking
 
-While studying for my A levels, I worked for an educational start up, NumberFit, as a teacher/instructor and resource creator. My colleagues and I at NumberFit realised that mathematics education, particularly at primary school, was leaving many children feeling alienated and lost, very early on in their educational journey. NumberFit introduced a unique idea of incorporating games and physical activity into a maths lesson. This meant that children were constantly having fun whilst learning, and attainment after the term in school tests had increased for the participating children. NumberFit provided me with a chance to not only test my innovation and communication skills but also to teach others and develop mathematical talent.
-
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+During my A levels, I worked for an educational start up, NumberFit, as a teacher/instructor and resource creator. My colleagues and I at NumberFit realised that mathematics education, particularly at primary school, was leaving many children feeling alienated and lost, very early on in their educational journey. NumberFit introduced a unique idea of incorporating games and physical activity into a maths lesson, for a term. This meant that children were constantly having fun whilst learning, and attainment after the term had finished in school tests had increased for the participating children. 
 
 ## Education
 Makers Academy (19/3/2018 to 9/7/2018)
