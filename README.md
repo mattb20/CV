@@ -8,8 +8,8 @@ Hard working, yet flexible software developer currently looking for my first rol
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [Acebook](https://github.com/mattb20/acebook)      | A clone of the social media website Faceboo developed over two weeks with three of my fellow Makers.                | Ruby on Rails,  Postgresql, Bootstrap              | RSpec, Devise, Travis CI, Capybara      |
-| [Thermostat](https://github.com/mattb20/thermostat-1)       | A speed type racer for code.                                         | JavaScript, Rails, Postgres           | Rspec, Capybara                    |
-| [Airport Challenge](https://github.com/mattb20/airport_challengeb)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Node, Rethink DB, Thinky         | Jasmine, Zombie, Mocha, Chai       |   
+| [Thermostat](https://github.com/mattb20/thermostat-1)       | A speed type racer for code.                                         | JavaScript, Rails, Postgres           | RSpec, Capybara                    |
+| [Airport Challenge](https://github.com/mattb20/airport_challengeb)            | The first weekend challenge I was set at Makers and my first solo OO project in Ruby.  | Ruby        | RSpec       |   
 
 ## Skills
 
