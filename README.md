@@ -14,14 +14,7 @@ Hard working, yet flexible software developer currently looking for my first rol
 ## Skills
 
 #### Communication
-I spent around five or six hours during my last semester at university at BSix College in Clapton. My tasks were to communicate with the class teacher to ensure I knew which topics were being covered
-on the afternoon I was at the college, to ensure my subject knowledge was top quality and explanations
-were prepared in advance ready for students. I also took small groups of students out of lessons to have 
-independent, more focused sessions on topics they were struggling with. I had to write a log book each week detailing what I had learnt about how Mathematics is taught in school. I did a special project which involved coaching students about exam technique, which students found extremely useful. Upon finishing I wrote a report summarising all my learnings, gave a presentation to my fellow undergraduate students explaining my project and the skills I'd developed at my time at the college and wrote a report based on my log book entries.
-
-On graduating from Queen Mary, I began a PGCE at King's College London in Secondary Mathematics.
-Here, I had the opportunity to work with tutors who were engaged in active research in Mathematics education.
-This allowed to become fully confident and comfortable communicating about Mathematics to a wide range of students in a classroom environment. I was required to plan and deliver extremely high-quality Mathematics lessons at two Secondary schools in Inner London, one of them oustanding. I also communicated with parents about a wide range of issues involving their childs progress at school. During my PGCE I also completed two academic research papers. A study into how secondary school students developed an understanding of equations and one assessing and investing the recently introduced Progress 8 measure of schools attainment.
+My university education and first teaching rolehave allowed me to become fully confident and comfortable communicating about Mathematics to a wide range of students in a classroom environment. I have been required to plan and deliver extremely high-quality Mathematics lessons at three different Secondary schools in Inner London, one of them oustanding. I have also communicated with parents about a wide range of issues involving their childs progress at school. During my PGCE I also completed two academic research papers. A study into how secondary school students developed an understanding of equations and one assessing and investing the recently introduced Progress 8 measure of schools attainment.
 
 From my experience in teaching, I particularly loved communicating abstract and complex mathematical ideas to my students in a way that allowed them to feel confident in applying these ideas, regardless of their current attainment level. I have now added to my communication skills at Makers by working in a team on projects and regularly pair programming.
 
