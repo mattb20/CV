@@ -19,7 +19,7 @@ My university education and first teaching role have allowed me to become fully 
 From my experience in teaching, I particularly loved communicating abstract and complex mathematical ideas to my students in a way that allowed them to feel confident in applying these ideas, regardless of their current attainment level. I have now added to my communication skills at Makers by working in a team on projects and regularly pair programming.
 
 #### Problem solving
-Solving countless mathematical problems over my A level and degree qualifications have taught me to formulate a problem in precise terms, identifying key issues. In addition I have learnt to break large problems down by looking at special cases or sub-problems, for example if you are working on a large proof, you need to split it down into small steps. After solving the problem in question I also have lots of experience in presenting the solutions clearly and logically,making any assumptions I have made explicit.
+Solving countless mathematical problems over my A level and degree qualifications have taught me to formulate a problem in precise terms, identifying key issues. In addition I have learnt to break large problems down by looking at special cases or sub-problems, for example if you are working on a large proof, you need to split it up into small steps, each one leading to the next. After solving the problem in question I also have lots of experience in presenting the solutions clearly and logically, making any assumptions I have made explicit.
 
 #### Innovative and forward thinking
 
