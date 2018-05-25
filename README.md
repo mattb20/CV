@@ -14,12 +14,12 @@ Hard working, yet flexible software developer currently looking for my first rol
 ## Skills
 
 #### Communication
-My university education and first teaching rolehave allowed me to become fully confident and comfortable communicating about Mathematics to a wide range of students in a classroom environment. I have been required to plan and deliver extremely high-quality Mathematics lessons at three different Secondary schools in Inner London, one of them oustanding. I have also communicated with parents about a wide range of issues involving their childs progress at school. During my PGCE I also completed two academic research papers. A study into how secondary school students developed an understanding of equations and one assessing and investing the recently introduced Progress 8 measure of schools attainment.
+My university education and first teaching role have allowed me to become fully confident and comfortable communicating about Mathematics to a wide range of students in a classroom environment. I have been required to plan and deliver extremely high-quality Mathematics lessons at three different Secondary schools in Inner London, one of them oustanding. I have also communicated with parents about a wide range of issues involving their childs progress at school. During my PGCE I also completed two academic research papers. A study into how secondary school students developed an understanding of equations and one assessing and investing the recently introduced Progress 8 measure of schools attainment.
 
 From my experience in teaching, I particularly loved communicating abstract and complex mathematical ideas to my students in a way that allowed them to feel confident in applying these ideas, regardless of their current attainment level. I have now added to my communication skills at Makers by working in a team on projects and regularly pair programming.
 
 #### Problem solving
-Solving countless mathematical problems over my A level and degree qualifications have taught me to formulate a problem in precise terms, identifying key issues. In addition I have learnt to large problems down by looking at special cases or sub-problems, for example if you are working on a large proof, you need to split it down into small steps. After solving the problem in question I also have lots of experience in presenting the solutions clearly and logically,making any assumptions I have made explicit.
+Solving countless mathematical problems over my A level and degree qualifications have taught me to formulate a problem in precise terms, identifying key issues. In addition I have learnt to break large problems down by looking at special cases or sub-problems, for example if you are working on a large proof, you need to split it down into small steps. After solving the problem in question I also have lots of experience in presenting the solutions clearly and logically,making any assumptions I have made explicit.
 
 #### Innovative and forward thinking
 
@@ -44,6 +44,7 @@ In addition to this, I also pursued some personal projects outside of time spent
 Kings College London - PGCE Secondary Mathematics
 - Wrote academic research paper into how students develop understandings of linear equations
 - Wrote academic research paper investigating the recent introduction of the Progress 8 measure relating to school attainment
+
 Queen Mary, University of London - BSc Mathematics
 
 ## Interests
