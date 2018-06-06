@@ -8,7 +8,7 @@ Hard working, yet flexible software developer currently looking for my first rol
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [Acebook](https://github.com/mattb20/acebook)      | A clone of the social media website Faceboo developed over two weeks with three of my fellow Makers.                | Ruby on Rails,  Postgresql, Bootstrap              | RSpec, Devise, Travis CI, Capybara      |
-| [MuchAgile](https://github.com/jbropho/final-project-websocket-livechat)       | A live chat room built in JavaScript intended to blossom into a Cooperative coding app                                         | JavaScript, Jasmine, React, Enzyme, Test Cafe          | Jasmine, Enztne                 |
+| [MuchAgile](https://github.com/jbropho/final-project-websocket-livechat)       | A live chat room built in JavaScript intended to blossom into a Cooperative coding app                                         | JavaScript, React        | Jasmine, Enzyme, Nightwatch                 |
 | [Airport Challenge](https://github.com/mattb20/airport_challengeb)            | The first weekend challenge I was set at Makers and my first solo OO project in Ruby.  | Ruby        | RSpec       |   
 
 ## Skills
