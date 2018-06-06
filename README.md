@@ -26,7 +26,7 @@ Solving countless mathematical problems over my A level and degree qualification
 During my A levels, I worked for an educational start up, NumberFit, as a teacher/instructor and resource creator. My colleagues and I at NumberFit realised that mathematics education, particularly at primary school, was leaving many children feeling alienated and lost, very early on in their educational journey. NumberFit introduced a unique idea of incorporating games and physical activity into a maths lesson, for a term. This meant that children were constantly having fun whilst learning, and attainment after the term had finished in school tests had increased for the participating children. 
 
 ## Education
-Makers Academy (19/3/2018 to 9/7/2018)
+Makers Academy (19/3/2018 to 9/6/2018)
 
 - Curious and passionate about code. I regularly read books about code, even if they aren't specific to what I am currently studying. I am currently reading the Rails 4 way. I also attended a hackathon during my time at Makers as I was keen to get as much experience of coding as possible. I also attended workshops after the day had finished, such as one on cryptography.
 In addition to this, I also pursued some personal projects outside of time spent at Makers, including a programme that scrapes data from a football league table in order to conduct stastical analysis on it.
