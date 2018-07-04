@@ -38,7 +38,7 @@ In addition to this, I also pursued some personal projects outside of time spent
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Capybara
 - Postgres, MongoDB
-- Node, React
+- Node, React, Express
 
 
 Kings College London - PGCE Secondary Mathematics
