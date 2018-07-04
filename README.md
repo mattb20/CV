@@ -2,7 +2,7 @@
 
 Email: matt_burgoyne@live.co.uk
 
-Hard working, yet flexible software developer currently looking for my first role in the industry. I was formerly a Secondary school teacher. I love programming in Ruby, JavaScript, and can learn and apply new languages and technologies quickly.
+Hard working, yet flexible software developer currently looking for my first role in the industry. I was formerly a secondary school teacher. I love programming in Ruby, JavaScript, and can learn and apply new languages and technologies quickly.
 ## Projects:
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
