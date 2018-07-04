@@ -2,12 +2,12 @@
 
 Email: matt_burgoyne@live.co.uk
 
-Hard working, yet flexible software developer currently looking for my first role in the industry. I was formerly a Secondary school teacher. I currently love programming in Ruby, but am also capable of programming in JavaScript, and will be able to pick up other languages and technologies quickly.
+Hard working, yet flexible software developer currently looking for my first role in the industry. I was formerly a Secondary school teacher. I love programming in Ruby, JavaScript, and can learn and apply new languages and technologies quickly.
 ## Projects:
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [Acebook](https://github.com/mattb20/acebook)      | A clone of the social media website Faceboo developed over two weeks with three of my fellow Makers.                | Ruby on Rails,  Postgresql, Bootstrap              | RSpec, Devise, Travis CI, Capybara      |
+| [Acebook](https://github.com/mattb20/acebook)      | A clone of the social media website Facebook developed over two weeks with three of my fellow Makers.                | Ruby on Rails,  Postgresql, Bootstrap              | RSpec, Devise, Travis CI, Capybara      |
 | [MuchAgile](https://github.com/jbropho/final-project-websocket-livechat)       | A live chat room built in JavaScript intended to blossom into a Cooperative coding app                                         | JavaScript, React, MongoDB        | Jasmine, Enzyme, Nightwatch                 |
 | [Airport Challenge](https://github.com/mattb20/airport_challengeb)            | The first weekend challenge I was set at Makers and my first solo OO project in Ruby.  | Ruby        | RSpec       |   
 
