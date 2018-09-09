@@ -2,7 +2,7 @@
 
 Email: matt_burgoyne@live.co.uk
 
-Hard working, yet flexible software developer currently looking for my first role in the industry. I was formerly a secondary school teacher. I love programming in Ruby, JavaScript, and can learn and apply new languages and technologies quickly.
+Full stack developer, currently work with Java however I also love programming in Ruby, JavaScript, and can learn and apply new languages and technologies quickly.
 ## Projects:
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
@@ -46,6 +46,11 @@ Kings College London - PGCE Secondary Mathematics
 - Wrote academic research paper investigating the recent introduction of the Progress 8 measure relating to school attainment
 
 Queen Mary, University of London - BSc Mathematics
+
+## Experience
+LNT Software (CoolCare) 30/7/18 - Present
+
+Keen to continue learning as much as I could about software development, I began work at LNT Software working as a developer on their CoolCare software, writing in Java and using other technology such as Docker, MS SQL management studio, raw SQL code and more. 
 
 ## Interests
 
